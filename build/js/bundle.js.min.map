@@ -1,0 +1,1 @@
+{"version":3,"sources":["bundle.js"],"names":["iniciarApp","document","addEventListener"],"mappings":"AAIA,SAAAA,cAJAC,SAAAC,iBAAA,oBAAA,WACAF","file":"bundle.js","sourcesContent":["document.addEventListener(\"DOMContentLoaded\", function () {\r\n    iniciarApp();\r\n  });\r\n\r\n  function iniciarApp() {\r\n      \r\n  }"]}
